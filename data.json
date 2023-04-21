@@ -1,0 +1,33 @@
+{
+    "name": "Ezediniru Daniel",
+    "bio": "Frontend Engineer and UI/UX Designer. I Design, I Code, I build",
+    "avatar": "https://pbs.twimg.com/profile_images/1532814993812602883/8yEXTPIm_400x400.jpg",
+    "icon": "https://cdn-icons-png.flaticon.com/512/157/157960.png",
+
+    "links": [
+        {
+            "title": "Portfolio Site",
+            "href": "https://www.ezedinirudaniel.com",
+            "image": "https://pbs.twimg.com/profile_images/1532814993812602883/8yEXTPIm_400x400.jpg"
+        },
+        {
+            "title": "Github",
+            "href": "https://github.com/danielbryte",
+            "image": "https://cdn-icons-png.flaticon.com/512/3291/3291695.png"
+        }
+
+    ],
+    "social": [
+        {
+            "title": "Twitter",
+            "href": "https://twitter.com/amdanielbryte",
+            "image": "https://cdn-icons-png.flaticon.com/512/3256/3256013.png"
+        },
+
+        {
+            "title": "Linkedin",
+            "href": "https://linkedin.com/in/danielbryte",
+            "image": "https://cdn-icons-png.flaticon.com/512/174/174857.png"
+        } 
+    ]
+}
