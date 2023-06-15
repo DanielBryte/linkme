@@ -1,11 +1,11 @@
 # LinkMe
 #### A Linktree Clone
 
-##### Check live site here: ![LinkMe](https://linkme-ashy.vercel.app/)
+##### Check the live site here: https://linkme-ashy.vercel.app/
 
 ![LinkMe](https://res.cloudinary.com/dhq4zyjbq/image/upload/v1686855000/linkme-img_1_hx8mzn.png)
 
-## How to get started, test locally
+## To test locally:
 
 First, clone the site
 
