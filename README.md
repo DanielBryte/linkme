@@ -1,6 +1,7 @@
 # LinkMe
 #### A Linktree Clone
 
+##### Check live site here: ![LinkMe]()
 
 ![LinkMe](https://res.cloudinary.com/dhq4zyjbq/image/upload/v1686855000/linkme-img_1_hx8mzn.png)
 
@@ -23,5 +24,3 @@ yarn dev
 # or
 pnpm dev
 ```
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
